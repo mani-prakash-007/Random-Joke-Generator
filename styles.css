@@ -1,0 +1,14 @@
+.results{
+    height: 50vh;
+    border: 1px solid;
+}
+
+.results ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+}
